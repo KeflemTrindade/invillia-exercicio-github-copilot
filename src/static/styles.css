@@ -78,6 +78,12 @@ section h3 {
   color: #1a237e;
 }
 
+/* New style for participant list */
+.activity-card p:last-child {
+  font-style: italic;
+  color: #555;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
