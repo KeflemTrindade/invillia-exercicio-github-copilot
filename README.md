@@ -1,4 +1,4 @@
-# GitHub Copilot
+pip3 install -r requirements.txt# GitHub Copilot
 
 ![](https://github.com/KeflemTrindade/invillia-exercicio-github-copilot/actions/workflows/1-preparing.yml/badge.svg)
 ![](https://github.com/KeflemTrindade/invillia-exercicio-github-copilot/actions/workflows/2-first-introduction.yml/badge.svg)
